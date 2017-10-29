@@ -4,7 +4,7 @@ var cx, cy;
 var startFrame, startWeight, maxSize;
 var bloodVec;
 function preload() {
-  img = loadImage("img/rauhfasertapete1.jpg");
+  img = loadImage("./img/rauhfasertapete1.jpg");
 }
 
 function setup() {
