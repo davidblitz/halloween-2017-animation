@@ -9,7 +9,7 @@ function preload() {
 
 function setup() {
   createCanvas(500, 342);
-  background(img);
+  image(img, 0, 0);
   
   cx = width/2;
   cy = height/2;
